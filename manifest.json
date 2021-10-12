@@ -5,8 +5,6 @@
   "display": "standalone",
   "theme_color": "#0ccac4",
   "background_color": "#071d53",
-  "version": "0.0.0.1",
-  "manifest_version": 2,
   "icons": [
     {
       "src": "favicon.ico",
