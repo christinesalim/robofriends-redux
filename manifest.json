@@ -1,6 +1,12 @@
 {
   "short_name": "Robofriends",
   "name": "Robofriends Finder",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#0ccac4",
+  "background_color": "#071d53",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,9 +24,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "start_url": "./index.html",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
